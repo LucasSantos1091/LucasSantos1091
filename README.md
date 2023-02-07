@@ -1,5 +1,5 @@
 ## 👋🏾 Hello, I'm Lucas Santos
-<img align="right" height="410em" src="luke_1-01.png"/>
+<img align="right" height="411em" src="luke_1-01.png"/>
 
 - 👨‍💻 Senior QA Engineer
 - 📌 Living in São Paulo, Brazil
