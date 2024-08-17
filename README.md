@@ -3,7 +3,7 @@
 
 - 👨‍💻 Senior QA Engineer
 - 📌 Living in São Paulo, Brazil
-- 💼 I’m currently working at Avenue
+- 💼 I’m currently working at ???
 
 For contact me:
 - E-mail: seu email
