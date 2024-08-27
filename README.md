@@ -1,9 +1,9 @@
 ## 👋🏾 Hello, I'm Lucas Santos
 <img align="right" height="410em" src="link da imagem aqui"/>
 
-- 👨‍💻 Senior QA Engineer
+- 👨‍💻 QA Engineer Master
 - 📌 Living in São Paulo, Brazil
-- 💼 I’m currently working at ???
+- 💼 I’m currently working at CI&T
 
 For contact me:
 - E-mail: lucas.fariasbsi@hotmail.com
