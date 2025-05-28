@@ -1,9 +1,9 @@
 ## 👋🏾 Hello, I'm Lucas Santos
 <img align="right" height="410em" src="link da imagem aqui"/>
 
-- 👨‍💻 QA Engineer Master
+- 👨‍💻 QA Specialist Engineer 
 - 📌 Living in São Paulo, Brazil
-- 💼 I’m currently working at CI&T
+- 💼 I’m currently working at Agibank
 
 For contact me:
 - E-mail: lucas.fariasbsi@hotmail.com
