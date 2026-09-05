@@ -2,7 +2,7 @@
 <img align="right" height="410em" src="link da imagem aqui"/>
 
 - 👨‍💻 QA Specialist Engineer 
-- 📌 Living in São Paulo, Brazil
+- 📌 Living in Campinas SP, Brazil
 - 💼 I’m currently working at Agibank
 
 For contact me:
