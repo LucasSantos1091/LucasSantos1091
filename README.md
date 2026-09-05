@@ -51,12 +51,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasSantos1091&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Lucas' GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantos1091&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+<p>
+  <img src="https://img.shields.io/badge/Go-43.2%25-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go 43.2%"/>
+  <img src="https://img.shields.io/badge/JavaScript-22.6%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript 22.6%"/>
+  <img src="https://img.shields.io/badge/Java-21.7%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21.7%"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-6.1%25-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework 6.1%"/>
+  <img src="https://img.shields.io/badge/Ruby-2.5%25-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby 2.5%"/>
+  <img src="https://img.shields.io/badge/Gherkin-2.4%25-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Gherkin 2.4%"/>
+  <img src="https://img.shields.io/badge/HTML-1.5%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 1.5%"/>
 </p>
+
+<sub>Calculado a partir dos bytes de código dos repositórios públicos (não-fork) da conta.</sub>
 
 ---
 
